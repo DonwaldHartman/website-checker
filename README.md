@@ -21,7 +21,7 @@ Install the dependencies
     
 ## Usage/Examples
 
-Please ensure that you are connected to the office VPN or you will get some false positives 
+
 
 ```python
 python3 website-checker.py  
