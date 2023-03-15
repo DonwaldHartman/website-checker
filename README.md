@@ -10,7 +10,7 @@ Requirements
 clone this repo
 
 ```bash
-  git clone git@gitlab.com:roxorgaming/games-platform/roxornoc/website-status-checker.git
+  git clone git@github.com:DonwaldHartman/website-checker.git
 
 ```
 Install the dependencies 
@@ -24,7 +24,7 @@ Install the dependencies
 Please ensure that you are connected to the office VPN or you will get some false positives 
 
 ```python
-python3 status.py  
+python3 website-checker.py  
 ```
 
 ## Screenshots
