@@ -27,8 +27,4 @@ Install the dependencies
 python3 website-checker.py  
 ```
 
-## Screenshots
-
-![ScreenShot](https://drive.google.com/uc?id=1eUrtI1F82pUHFzxi1h8KsrGsn-nLPfq6)
-
 
