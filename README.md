@@ -1,4 +1,4 @@
-![Logo](https://drive.google.com/uc?id=16Wt1Y4aFMcSTdyWSbNOGQkmfWpU-3s1O)
+![Logo](https://drive.google.com/uc?id=1tYZ3yMQloYcQQusmzJUjp2MmocjWEqHq)
 # Website Status Check
 
 This script checks the status of websites and outputs their status in a table 
